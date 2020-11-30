@@ -1,5 +1,3 @@
-# A-Hat-in-Time-German-Translation
+# A-Hat-in-Time-Dutch-Translation
 
-This is a fan-made translation for the game "A Hat in Time" to the german language
-
--- WE ACCEPT NO MORE PARTICIPANTS, SORRY --
+This is a fan-made translation for the game "A Hat in Time" to the dutch language, based on the german translation.
